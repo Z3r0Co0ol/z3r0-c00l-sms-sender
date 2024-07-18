@@ -1,5 +1,6 @@
 # z3r0-c00l-sms-sender
-1- download HttpSms.apk and install on your android phone 
+
+# Download HttpSms.apk and Convert your android phone into an SMS gateway
 
 ![0](https://github.com/user-attachments/assets/f6cf91fe-8589-4087-b949-dcddcc581dab)
 ![1](https://github.com/user-attachments/assets/794ca827-31a9-4c7f-8ccc-29be5a10c63b)
